@@ -1,0 +1,4 @@
+/* File: src/app/globals.css */
+/* Function: Global CSS entry point importing Tailwind CSS framework */
+
+@import "tailwindcss";
